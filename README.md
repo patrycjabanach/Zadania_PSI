@@ -1,1 +1,1 @@
-Rozwiązania zadań z PSI
+Rozwiązania zadań z przedmiotu Projektowanie Systemów Informatycznych
