@@ -1,1 +1,1 @@
-# Zadania_PSI
+Rozwiązania zadań z PSI
